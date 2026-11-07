@@ -1,4 +1,4 @@
-# API Testing using Docker (completed)
+# API Testing using Docker
 
 ## Usage
 
